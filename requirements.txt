@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+
+
+#Install everything using:   pip install -r requirements.txt
